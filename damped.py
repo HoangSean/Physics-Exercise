@@ -6,6 +6,8 @@ from scipy.integrate import quad
 from scipy.integrate import dblquad
 from scipy.integrate import odeint
 plt.style.use(['science', 'notebook', 'grid'])
+
+# Đề bài: Phương trình dao động tắt dần: $\ddot \theta + 0.5 \dot \theta + 9.81 \sin(\theta)$
 fig, axes = plt.subplots(1, 2, figsize = (10,5))
 def dSdt(S,t):
     omega, theta = S 
