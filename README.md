@@ -5,3 +5,6 @@ Some of my mini projects on physics
 
 # Mô phỏng các mức năng lượng trong giếng thế (PP số) (file: numerical.py): 
 ![Đồ thị 5 mức năng lượng đầu](isw.png)
+
+# Hiệu ứng cánh bướm (file: chaos.py): 
+![Hiệu ứng cánh bướm](butter.gif)
